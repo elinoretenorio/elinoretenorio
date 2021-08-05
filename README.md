@@ -58,6 +58,22 @@
 
 **- Dave, CTO**
 
+> Elinore, Thank you so much for being on top of the release! You're making my work a lot easier 🙂
+
+**- Project Manager**
+
+> Kudos to Elinore for completing all the migrations over the last month without a single hitch.
+
+**- CTO**
+
+> TBH — Elinore is really good about quashing small bugs...it’s hard to think of something she hasn’t already found and addressed, from tickets getting escalated or her just browsing the unclaimed view for XX tickets.
+
+**- Support Manager**
+
+> Another straightforward release. Thank goodness we have Elinore. She’s the best. Also, no hotfixes. 
+
+**- Project Manager**
+
 <!--
 **elinoretenorio/elinoretenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
