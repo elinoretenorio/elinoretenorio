@@ -74,6 +74,18 @@
 
 **- Project Manager**
 
+> Elinore is the best.
+
+**- Support Team Lead**
+
+> It’s Elinore that’s on top of things :sweat_smile:
+
+**- Project Manager**
+
+> Elinore! Thank you so much for seeing that and alerting ... so it could be fixed. Thank you both for taking good care of our customers, and extra thanks to you, Elinore, for taking the time to reply to them! I sincerely appreciate it…so much! And I know they do, too. :relaxed:
+
+**- VP, Customer Experience**
+
 <!--
 **elinoretenorio/elinoretenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
