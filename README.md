@@ -90,6 +90,14 @@
 
 **- Support Team Lead**
 
+> Kudos to Elinore who floats into open tickets like a code fairy to fix issues I didn't even know were issues yet!
+
+**- Community Support**
+
+> She’s the best...I think she’s the most involved dev who checks the open support queue regularly.
+
+**- Product Manager**
+
 <!--
 **elinoretenorio/elinoretenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
