@@ -86,6 +86,10 @@
 
 **- VP, Customer Experience**
 
+> Those internal notes you leave are heroic/a major relief for confusing situations...
+
+**- Support Team Lead**
+
 <!--
 **elinoretenorio/elinoretenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
